@@ -1,4 +1,4 @@
-package allup_test
+package netlocal_test
 
 import (
 	. "github.com/onsi/ginkgo"
